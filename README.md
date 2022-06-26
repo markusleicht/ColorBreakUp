@@ -1,4 +1,5 @@
 # ColorBreakUp
+[![DOI](https://zenodo.org/badge/502951858.svg)](https://zenodo.org/badge/latestdoi/502951858)
 
 The CBU_MODEL predicts a viewer's perception of Color Break-Up (CBU) on an objectified basis for predefined scenarios. The model scenario always includes (1) a field-sequential color display system presenting digital content and (2) a viewer observing the content. Under certain conditions, such a scenario potentially leads to the occurrence of CBU effects. The CBU effects are computed by the CBU_MODEL in a multi-stage process.
 
